@@ -3,3 +3,14 @@
     color: green;
     margin-top: 8vh;
 }
+
+.p1{
+    font-size: 22px;
+    text-align: center;
+    color: darkgreen;
+}
+.p2{
+    font-size: 20px;
+    text-align: start;
+    color: deepskyblue;
+}
