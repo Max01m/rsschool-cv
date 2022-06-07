@@ -17,20 +17,20 @@
 * Windows OS, Linux(Ubuntu) ,MAC OS
 
 # Code examples
-
- let movie={<br>
-             janre: 'fantasy',<br>
-             name :'spider-man',<br>
-             duration:'127 min',<br>
-             rating:8.7,<br>
-         }<br>
-         movie.date ='16.12.2021'<br>
-         movie.rating=9.0<br>
-         delete movie.janre<br>
-        for (let i in movie){<br>
-             console.log(i+ ' =>'+movie[i])<br>
+```
+ let movie={
+             janre: 'fantasy',
+             name :'spider-man',
+             duration:'127 min',
+             rating:8.7,
          }
-
+         movie.date ='16.12.2021'
+         movie.rating=9.0
+         delete movie.janre
+        for (let i in movie){
+             console.log(i+ ' =>'+movie[i])
+         }
+```
 
 
 
